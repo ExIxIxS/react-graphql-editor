@@ -1,5 +1,7 @@
 ### **1. Task:** [GraphiQL](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/graphiql.md)
-### **2. Screenshot:** ![image](https://github.com/ExIxIxS/react-graphql-editor/assets/106703414/e861a6cf-27f2-47b7-8bf8-c6c88d62ab9f)
+### **2. Screenshots:**
+![image](https://github.com/ExIxIxS/react-graphql-editor/assets/106703414/e861a6cf-27f2-47b7-8bf8-c6c88d62ab9f)
+![image](https://github.com/ExIxIxS/ExIxIxS/assets/106703414/989c3ef9-e30d-41b3-afe1-25f2d7b05b62)
 ### **3. Deploy:** [Deploy](https://rsschool-graphiql.netlify.app/)
 ### **4. Video:** [Youtube](https://www.youtube.com/watch?v=DMVelvvaQA8)
 __________________
